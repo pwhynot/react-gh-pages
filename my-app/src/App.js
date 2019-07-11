@@ -7,7 +7,10 @@ import characters from "./characters.json";
 
 
   class App extends Component {
-    state = { characters }
+    state = { 
+      characters 
+    }
+    
     render() {
       return (<div>
         <Navbar />

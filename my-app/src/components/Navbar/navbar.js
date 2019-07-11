@@ -1,5 +1,4 @@
-import React from "react";
-import "./style.css";
+import React from 'react';
 
 const score = 0;
 const highScore = 0;

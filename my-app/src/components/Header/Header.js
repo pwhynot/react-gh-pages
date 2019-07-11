@@ -1,8 +1,18 @@
-import React from "react";
-import "./style.css";
-
-function Title(props) {
-  return <h1 className="title">{props.children}</h1>;
+import React from 'react';
+import './style.css'
+const style = {
+    HeaderStyle: {
+        marginTop: 0,
+        height: "22vh",
+        textAlign: "center",
+        width: "100%",
+    }
 }
-
-export default Title;
+function Header() {
+    return (<div style={style.HeaderStyle} className='headerDiv'>
+        <div><h2>Ghostbusters Clicky Game!</h2></div>
+        <h2 id="instructions">Click an image to gain points, click the same image twice game over!.</h2>
+    </div >
+    );
+}
+export default Header;
