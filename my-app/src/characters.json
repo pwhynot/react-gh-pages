@@ -1,0 +1,17 @@
+[
+    {
+    "id": 1,
+    "name": "Peter Venkman",
+    "image": "https://pbs.twimg.com/profile_images/378800000852152632/4a9627d4d9308ed8e8620877ffee07ba_400x400.png",
+    "occupation": "Ghostbuster",
+    "location": "New York City, New York"
+    },
+    
+    {
+    "id": 2,
+    "name": "Egon Spangler",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/715833d2-d58d-47a8-b481-b6807f2297da/d4rb1ps-9dbaf232-330a-4a28-b897-97dcb3f09c85.png/v1/fill/w_812,h_984,q_70,strp/egon_spengler_in_court_by_devilmanozzy_d4rb1ps-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA5MSIsInBhdGgiOiJcL2ZcLzcxNTgzM2QyLWQ1OGQtNDdhOC1iNDgxLWI2ODA3ZjIyOTdkYVwvZDRyYjFwcy05ZGJhZjIzMi0zMzBhLTRhMjgtYjg5Ny05N2RjYjNmMDljODUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Z8QeW9zeng6Zqns5sIk2UvT-zqXHFvv2brlFIpzbQdM",
+    "occupation": "Ghostbuster",
+    "location":"New York City, New York"
+    }
+]
