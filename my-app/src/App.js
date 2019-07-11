@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import Card from "./components/Card";
-import Navbar from "./components/Navbar";
-import Title from "./components/Title";
-import Wrapper from "./components/Wrapper";
+import Card from "./components/Card/card";
+import Navbar from "./components/Navbar/navbar";
+import Title from "./components/Title/title";
+import Wrapper from "./components/Wrapper/wrapper";
 import characters from "./characters.json";
 
 class App extends Component {
