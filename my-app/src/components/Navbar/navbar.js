@@ -1,12 +1,20 @@
 import React from "react";
 
-const score = 0;
-const highScore = 0;
+const style = {
+    NavbarStyle: {
+        marginTop: 0,
+        textAlign: "center"
+    }
+}
 
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-light">
-            Score: {score} | High Score: {highScore}
+        <nav style={style.NavbarStyle} className="navbarDiv">
+           <div>
+            <h1>Ghostbusters Clicky Game!
+           </h1>
+           <h2>Who Ya Gonna Click?</h2>
+           </div>
         </nav>
     )
 }

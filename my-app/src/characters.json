@@ -13,5 +13,86 @@
     "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/715833d2-d58d-47a8-b481-b6807f2297da/d4rb1ps-9dbaf232-330a-4a28-b897-97dcb3f09c85.png/v1/fill/w_812,h_984,q_70,strp/egon_spengler_in_court_by_devilmanozzy_d4rb1ps-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA5MSIsInBhdGgiOiJcL2ZcLzcxNTgzM2QyLWQ1OGQtNDdhOC1iNDgxLWI2ODA3ZjIyOTdkYVwvZDRyYjFwcy05ZGJhZjIzMi0zMzBhLTRhMjgtYjg5Ny05N2RjYjNmMDljODUucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Z8QeW9zeng6Zqns5sIk2UvT-zqXHFvv2brlFIpzbQdM",
     "occupation": "Ghostbuster",
     "location":"New York City, New York"
+    },
+    
+    {
+    "id": 3,
+    "name": "Ray Stantz",
+    "image": "https://vignette.wikia.nocookie.net/ghostbusters/images/9/90/Stantz_01.jpg/revision/latest?cb=20101210000635",
+    "occupation":"Ghostbuster",
+    "location":"New York City, New York"
+    },
+
+    {
+    "id": 4,
+    "name": "Winston Zeddemore",
+    "image": "https://vignette.wikia.nocookie.net/ghostbusters/images/a/ab/Zeddemore_01.jpg/revision/latest?cb=20101210000727",
+    "occupation":"Ghostbuster",
+    "location":"New York City, New York"
+    },
+
+    {
+    "id": 5,
+    "name": "Janine Melnitz",
+    "image": "https://vignette.wikia.nocookie.net/ghostbusters/images/6/69/Janinenewbio.png/revision/latest?cb=20101210010210",
+    "occupation": "Secretary",
+    "location":"New York City, New York"
+    },
+
+    {
+    "id": 6,
+    "name": "Louis Tully",
+    "image": "https://vignette.wikia.nocookie.net/ideas/images/f/f4/02-Louis_Tully_GB2.jpg/revision/latest?cb=20180923012555",
+    "occupation": "Attorney",
+    "location":"New York City, New York"
+    },
+
+    {
+    "id": 7,
+    "name": "Lenny Clotch",
+    "image": "https://vignette.wikia.nocookie.net/ghostbusters/images/a/ab/GB1MayorbioUpdate.png/revision/latest?cb=20141211062211",
+    "occupation": "Mayor",
+    "location":"New York City, New York"
+    },
+
+    {
+    "id": 8,
+    "name": "Dana Barrett",
+    "image": "https://vignette.wikia.nocookie.net/total-movies/images/f/ff/Dana_Barrett.png/revision/latest?cb=20151102220113",
+    "occupation": "Cellist",
+    "location":"New York City, New York"
+    },
+
+    {
+    "id": 9,
+    "name": "Walter Peck",
+    "image": "https://www.goombastomp.com/wp-content/uploads/2018/01/Walter_Peck-300x213.jpg",
+    "occupation": "EPA",
+    "location":"New York City, New York"
+    },
+
+    {
+    "id": 10,
+    "name": "Slimer",
+    "image": "https://scontent-atl3-1.cdninstagram.com/vp/c5c16af7556727222633a0a038773cee/5DA5BC11/t51.2885-15/e35/62017451_2329790290618747_4724363701500298677_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com",
+    "occupation": "Bus Driver",
+    "location":"New York City, New York"
+    },
+
+    {
+    "id": 11,
+    "name": "Gozer",
+    "image": "https://i.pinimg.com/originals/d3/0d/a4/d30da48704608b1dc333cb8031dfbed4.png",
+    "occupation": "The Destructor",
+    "location": "Mesopotamia"
+    },
+
+    {
+    "id": 12,
+    "name": "Vigo the Carpathian",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/7195xH%2BzAjL._SY679_.jpg",
+    "occupation": "Tyrant",
+    "location": "Balkan kingdom of Carpathia"
     }
+
 ]
